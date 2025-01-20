@@ -1,0 +1,25 @@
+body
+{
+    background-image: url(../images/star.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1
+{
+    margin-left: 5px;
+    margin-top: 25px;
+    color: rgb(27, 94, 236);
+    font-size: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button
+{
+    align-items: center;
+    background-color: rgb(93, 240, 240);
+    border-radius: 25px;
+    font-size: 50px;
+    margin-top: 200px;
+    margin-left: 550px;
+}
